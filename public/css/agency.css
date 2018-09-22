@@ -22,7 +22,7 @@ a:hover {
 }
 
 .text-primary {
-  color: #fed136 !important;
+  color: black !important;
 }
 
 h1,
@@ -67,12 +67,14 @@ section h3.section-subheading {
 
 .btn-xl {
   font-size: 18px;
+  color: black;
   padding: 20px 40px;
 }
 
 .btn-primary {
   background-color: white;
   border-color: white;
+  color: black;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
