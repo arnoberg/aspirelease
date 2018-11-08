@@ -89,7 +89,7 @@ section h3.section-subheading {
 }
 
 ::-moz-selection {
-  background: #fed136;
+  background: darkblue;
   text-shadow: none;
 }
 
