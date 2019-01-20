@@ -94,7 +94,7 @@ section h3.section-subheading {
 }
 
 ::selection {
-  background: white;
+  background: black;
   text-shadow: none;
 }
 
