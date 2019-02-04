@@ -14,7 +14,7 @@ p {
 }
 
 a {
-  color: #212529;
+  color: white;
 }
 
 a:hover {
@@ -62,7 +62,8 @@ section h3.section-subheading {
 
 .btn {
   font-family: 'century gothic', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
-  font-weight: 700;
+  font-weight: 400;
+  font-size: 80%;
 }
 
 .btn-xl {
@@ -84,8 +85,8 @@ section h3.section-subheading {
 }
 
 .btn-primary:active, .btn-primary:focus {
-  -webkit-box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important;
-  box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important;
+  -webkit-box-shadow: 0 0 0 0.2rem white !important;
+  box-shadow: 0 0 0 0.2rem white !important;
 }
 
 ::-moz-selection {
